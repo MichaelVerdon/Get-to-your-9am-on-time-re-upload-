@@ -1,0 +1,11 @@
+[id], [option 1 id], [option2 id], [description], [option1 text], [option2 text],
+ [option1 hasRequirement], [option2 hasRequirement], [option1 coolness], [option1 time], [option2 coolness], [option2 time], [coolness gained], [time gained]
+
+e.t.c
+0,1,1,Select an option to enter, Option1, Option2, false, false,-,-,-,-,-,-
+
+3,4,5, The nicotine strikes you with a headrush and you begin to feel a little too comfortable. (+0.5 coolness -1 time points), Put your head back, Fight the urges,
+ false, false, -,-,-,-,0.5,-1
+
+When there is no requirement, related fields are made null instead of 0.
+

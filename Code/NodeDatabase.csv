@@ -1,0 +1,89 @@
+0,1,1,Select an option to enter, Option1, Option2,false,false,0,0,0,0,0,0
+1,2,4, You awaken from a strange dream and you look at your phone and realize the time is 8.30am. It is a bleak grey monday morning and you have a 9am. You think to yourself 'I better get to my 9am on time.' as a wave of anxiety hits., Get up and ready to go, Pursue the Dream,false,false,0,0,0,0,0,0
+2,3,5, You are by the front door., Smoke cigarette in backyard, Head outside,false,false,0,0,0,0,0,0
+3,4,5, The nicotine strikes you with a headrush and you begin to feel a little too comfortable. (+0.5 coolness -1 time points), Put your head back, Fight the urges,false,false,0,0,0,0,0.5,-1
+4,0,0, (Ending 1) You fall asleep, Restart,-,false,false,0,0,0,0,0,0
+5,6,44, The front door shuts behind you and you are confronted with 2 pathways., Take the park route, Go past Tesco,false,false,0,0,0,0,0,0
+6,7,26, A comforting breeze hits you as you walk past the entrance. A mysterious figure with a skateboard walks up to you. He utters 'Wanna shred dude?'., 'No thanks bro I got a lecture to attend', Go with the figure,false,false,0,0,0,0,0,0
+7,8,9, You reach the end of the park satisfied with your self-discipline, Continue Walking, Check the time on your phone,false,false,0,0,0,0,0,0
+8,10,14, A breeze of wind hits you as you cross the road and you are confronted with two routes. You  can choose the alleyway or the main road., Go via main road, Take the alleyway,false,false,0,0,0,0,0,0
+9,0,0, (Ending 13) You get a pop notification for clash of clans and your village is under attack! You put your attention to greater matters., Restart,-,false,false,0,0,0,0,0,0
+10,11,52, You reach the main road and reach the crossing. You cross as you realise you beat the rush hour. As you continue down the main road you catch a glimpse of a small object., Continue walking, Walk to the small object,false,false,0,0,0,0,0,0
+11,12,13, At a swift pace you reach the end of the road and reach campus. You catch a gaze of the building you have your lecture in and enter and see two students scanning their student id cards and walking off., Imitate the students (0.5 coolness required), Walk into your lecture,true,false,0.5,0,0,0,0,0
+12,0,0, (Ending 15) HEY!!!' your lecturer shouts as he runs and catches you as you make a lethargic attempt to run. 'You're in big trouble you!!'., Restart,-,false,false,0,0,0,0,0,0
+13,0,0, (Ending 18) You made it in good time to your 9am good sport! You are a bit boring though., Restart,-,false,false,0,0,0,0,0,0
+14,15,16,  A man in a long trench coat towers over you as you try to walk past and he offers you some 'horse medicine'., Indulge, Politely Decline,false,false,0,0,0,0,0,0
+15,0,0, (Ending 8) Taking horse medicine when you are not sick is not cool. Especially when you are not a horse. You pass out., Restart,-,false,false,0,0,0,0,0,0
+16,17,18, The man exclaims 'I will not let you pass without a duel!'., You're crazy, Go on you scallywag,false,false,0,0,0,0,0,0
+17,0,0, (Ending 9) You get clobbered over the back of the head and pass out. You are in no condition to make it to your 9am on time, Restart,-,false,false,0,0,0,0,0,0
+18,19,17, The man unsheathes an umbrella handle and charges forward., Parry with skateboard, Attempt to block,false,false,0,0,0,0,0,0
+19,20,17, You make the man launch backwards slightly, Hold defensive stance, Go for a strike,false,false,0,0,0,0,0,0
+20,21,17, You successfully block a sneaky blow. "Ahhh my special move!". the man exclaims. What will you do next?, Throw holy water bomb, Try to reason with him,false,false,0,0,0,0,0,0
+21,23,22, The bomb splashes a ring of holy water which makes the man spontaneously combust. He concedes. Suddenly a hole in the floor appears; a portal it seems. Demons are flying out of it., Use portal to teleport to lecture, Go on a badass demon hunting adventure,false,false,0,0,0,0,0,0
+22,0,0, (Ending 10) Apparently demon hunting is not an excuse to ditch your 9ams! You lose., Restart,-,false,false,0,0,0,0,0,0
+23,25,24, You manage to attend your lecture 5 minutes before it starts. Turns out bending space and time is viable to making to your lectures. You look out the window and the skies are red., Tell your lecturer about the situation (1.5 coolness required), Sit down,true,false,1.5,0,0,0,0,0
+24,0,0, (Ending 11) You sit through what feels like an extra long hour but feel it has been very productive., Restart,-,false,false,0,0,0,0,0,0
+25,0,0, (Ending 12) "Is that so?" your lecturer asks as he pulls out a demon slaying whip. "Looks like we got some work to do!"., Restart,-,false,false,0,0,0,0,0,0
+26,27,28, The clatter of skateboard wheels fills the air. A young child yells at you 'Do a kickflip!'., Attempt kickflip, Shudder in fear,false,false,0,0,0,0,0,0
+27,0,0, (Ending 5) *Oof* You tumble hard on the ground. 'Are you alright mate?' the skater asks. You stay on the ground for 5 minutes agonising then leave the skatepark mortified and go home., Restart,-,false,false,0,0,0,0,0,0
+28,29,35, You admit you are a poser and are kindly taught how to kickflip. You present a perfectly executed kickflip to the child's awe. 'Woah that was wicked' the skater said. He asks if you want to go for a cruise with the boys. (+1 coolness), 'No thanks bro I gotta go to my lecture', Go for a cruise,false,false,0,0,0,0,1,0
+29,14,30, You reach the end of the park. You can pass through the main road or through the alleyway which you could've sworn is a shortcut., Take the alleyway, Go via main road,false,false,0,0,0,0,0,0
+30,31,32, You reach the main road and reach the crossing. The road is full of traffic speeding and you realise you are there at the peak of rush hour. You can either risk it with the traffic or take the alternate route through the neighbourhood. (-1 time points), Risk it, Take the alternate route,false,false,0,0,0,0,0,-1
+31,0,0, (Ending 14) That wasn't a wise decision. You get hit by a car that turned and didn't use its indicators., Restart,-,false,false,0,0,0,0,0,0
+32,33,34, Exhausted you stumble to campus and reach the lecture building., Arrive late, Just about arrive on time (-1 time points required),false,true,0,0,0,-1,0,0
+33,0,0, (Ending 16) As sweat pours down your forehead as you look for a seat you realise you missed half the content and feel confused. You faint., Restart,-,false,false,0,0,0,0,0,0
+34,0,0, (Ending 17) That was a close one' you think to yourself as you get seated and get to work., Restart,-,false,false,0,0,0,0,0,0
+35,36,41, You cruise with your newly found brothers and as you all cruise in single file down the road. You all see a large hill. 'We gotta bomb The Hill bro' exclaims one of your brothers. You all go to it., Ignore hill, Bomb hill,false,false,0,0,0,0,0,0
+36,37,38, You stand at the edge of the hillbomb and decide not to go after a long reflective pause., Go home, Cruise on,false,false,0,0,0,0,0,0
+37,0,0, (Ending 4) The trauma of facing death head on overcomes you and you become a hermit for life., Restart,-,false,false,0,0,0,0,0,0
+38,39,40, You make it to your lecture. 'Hey you explain why you are 30 minutes late!' your lecturer shouts. The whole class turns and looks at you. You feel yourself heating up., Run away, Give heartfelt speech (1.5 coolness required),false,true,0,0,1.5,0,0,0
+39,0,0, (Ending 7) You try to run away but suddenly the electric doors slam shut and you are now trapped forever., Restart,-,false,false,0,0,0,0,0,0
+40,0,0, (Ending 6) You deliver a soul-filled speech regarding your traumatic encounters with attempting a kickflip and standing at the top of the hillbomb. The lecturer is so emotionally moved he excuses you and tells you to never come back. You get away with your life., Restart,-,false,false,0,0,0,0,0,0
+41,42,43, You start to go down the hill and accelerate very rapidly. Your board wobbles due to sheer speed at which you are travelling. You make it to the end and you are launched off your board due to a stray pebble that collided with your wheel., Roll to safety (1.5 coolness required), Ascend to skate heaven,true,false,1.5,0,0,0,0,0
+42,0,0, (Ending 3) A crowd relentlessly cheers for you as you bombed 'the hill' and made it out alive in the dire circumstances. You live on the be a signed skater and are now 'too cool for school'., Restart,-,false,false,0,0,0,0,0,0
+43,0,0, (Ending 2) Your legend remains in Pompey long since your disappearance., Restart,-,false,false,0,0,0,0,0,0
+44,45,49, You feel a rumbling in your stomach, Go to Tescos, Keep walking on,false,false,0,0,0,0,0,0
+45,46,48, As you head into Tescos you cannot help but resist to check the meal deal area as you deeply inspect it. (-1 time points), Select a meal deal, Head to snacks area,false,false,0,0,0,0,0,-1
+46,47,48, You decide to pick up a snickers bar with a sandwich and a monster energy after careful consideration. (-1 time points), Chug Monster, Checkout,false,false,0,0,0,0,0,-1
+47,0,0, (Ending 19) You feel your stomach rumbling violently as you need to rush to the toilet. You then die of a cardiac arrest., Restart,-,false,false,0,0,0,0,0,0
+48,49,75, You cannot help but notice Tescos new premade 'beef' burgers however something seems off about them., Ignore it and head onwards, Buy it and head out,false,false,0,0,0,0,0,0
+49,50,68, Heading down the main road you hear a conundrum coming from the field. You peer into it and see alot of people seeming to protest., Check it out, Keep walking on,false,false,0,0,0,0,0,0
+50,51,53, Upon closer inspection you realise it is an anti-vax and anti-mask protest., Join the crowd, Avoid them like the plague,false,false,0,0,0,0,0,0
+51,0,0, (Ending 20) You contract covid and are too unwell to make it to your lecture on time., Restart,-,false,false,0,0,0,0,0,0
+52,11,1, You pick up a very fancy engraved stopwatch from the ground and feel an impulse to click it., Put it away and continue, Click the stopwatch,false,false,0,0,0,0,0,0
+53,54,55, You reach the end of the field narrowly avoiding the crowd., Chase the crowd, Keep on going,false,false,0,0,0,0,0,0
+54,0,0, (Ending 25) You got covid, Restart,-,false,false,0,0,0,0,0,0
+55,56,57, As you walk past the pub a drunken man bumps into you by accident. 'Oi you wanna fight mate?', Lets 'ave it, Flee,false,false,0,0,0,0,0,0
+56,60,61, Ok here comes my special move'. The man starts spinning his arm like a flail and you see him about to lash., Cry, Parry,false,false,0,0,0,0,0,0
+57,58,59, You reach the campus at a hasty pace. The mans presence shook you as you realise you made good time. (+1 time points), Attend lecture, Attend super-early and say hello to lecturer (1 time point required),false,false,0,0,0,0,0,+1
+58,0,0, (Ending 34) You did it! you made it to your 9am on time and buckled down to do some work. Good going champ., Restart,-,false,false,0,0,0,0,0,0
+59,0,0, (Ending 35) Due to coming super early you talk to lecturer and find out hes another person who does people things too. You plan to get drinks together!, Restart,-,false,false,0,0,0,0,0,0
+60,0,0, (Ending 32) Ouch! you lose, Restart,-,false,false,0,0,0,0,0,0
+61,62,63, You knock him back and see an opening., Hold defensive stance, Push him,false,false,0,0,0,0,0,0
+62,0,0, (Ending 33) The man falls over you and you both trip and get knocked out, Restart,-,false,false,0,0,0,0,0,0
+63,64,60, The man tumbles over and gets back him. 'Here I go you better watch out!!', Watch out, Don't watch out,false,false,0,0,0,0,0,0
+64,65,60, 'Damnit you wacthed out'., Finish him, Don't finish him,false,false,0,0,0,0,0,0
+65,66,67, You deliver a singular blow which knocks the man and dizzies him. He gets up after 5 minutes. 'Good show old chap how about you join me for some drinks?', Join him (0.5 coolness required), Don't join him,true,false,0.5,0,0,0,0,0
+66,0,0, (Ending 37) You get to know the man and he isn't so bad after you all. You end up getting all the lads and going Astoria together. But what about your 9am? Probably a bit late for that. There is usually a next time., Restart,-,false,false,0,0,0,0,0,0
+67,0,0, (Ending 36) You pass out tired and dehydrated to awaken back at home. You realise you have a 9am., Restart,-,false,false,0,0,0,0,0,0
+68,69,72, You reach the university campus after some time. and see the building your lecture is held in., Head inside, Bunk it (-3 time points required),false,true,0,0,0,-3,0,0
+69,70,71, Shifting along the crowd of students in the hall you eventually find a seat., Do work (0 time points required), Explain your tardiness,true,false,0,0,0,0,0,0
+70,0,0, (Ending 29) You made it to your 9am on time, Restart,-,false,false,0,0,0,0,0,0
+71,0,0, (Ending 28) The lecturer counters you with 'No excuse'. You did not make it to your 9am on time., Restart,-,false,false,0,0,0,0,0,0
+72,73,74, You realise your activities have cost you your 9am or has it?, It has, Chug Monster (0.5 coolness required),false,true,0,0,0.5,0,0,0
+73,0,0, (Ending 24) Unlucky but it is your fault, Restart,-,false,false,0,0,0,0,0,0
+74,0,0, (Ending 27) The nicotine and caffeine gets you so buzzed it rewinds time, perhaps you have made it if you can navigate through the distorted space time.,-,false,false,0,0,0,0,0,0
+75,76,77, You swiftly make it through to self checkout and buy the burger and head out. As you take a bite you notice an odd flavour. 'I knew it. It has horse meat in it. Tesco haven't learnt!' you exclaim to yourself., Walk left, Walk right,false,false,0,0,0,0,0,0
+76,54,68, You have just reached the main road and pass by a field where you see the end of large protest. You appear to have missed it., Chase it, Walk onwards,false,false,0,0,0,0,0,0
+77,78,80, 'Well well well' a tesco manager says as he appears from the corner. 'It seems you have discovered our secret. We cannot have any witnesses can we?', Gaslight Manager (0.5 coolness required), 'I guess you are going to have to',true,false,0.5,0,0,0,0,0
+78,76,90,  'Wrong person I guess you are free to go'. the manager says as he turns his back. (-1 time points), Walk left, Go for a strike,false,false,0,0,0,0,0,-1
+79,0,0, (Ending 23) It turns out he was a martial arts master. He stops your breathe with a one finger punch to the sternum., Restart,-,false,false,0,0,0,0,0,0
+80,81,82, In the blink of an eye the manager fires forward projectile tesco clubcards from his sleeves and are hurdling towards you., Jump out of the way, Hold arms to block,false,false,0,0,0,0,0,0
+81,0,0, (Ending 21) You successfully dodge the cards but slip on a banana peel and get knocked out. A dystopian horse burger future agenda will now be set afoot., Restart,-,false,false,0,0,0,0,0,0
+82,83,84, You succesfully deflect the innocuous plastic cards and pick one up., Snap one in half, Throw one back,false,false,0,0,0,0,0,0
+83,0,0, (Ending 22) Whilst you struggle to snap the card the manager vanishes and reappears behind you clobbering you over the back of the head leaving you dizzy., Restart,-,false,false,0,0,0,0,0,0
+84,85,86, The card flies like a boomerang and slices the managers tie off. "My tie!" he screams as he vanishes into dust. A portal opens in front of you. (+1 coolness points), Take the portal, Head to your lecture,false,false,0,0,0,0,1,0
+85,0,0, (Ending 26) You teleport to a court case and successfully sue Tescos. Victory is yours or is it? Did you make it to your 9am on time?, Restart,-,false,false,0,0,0,0,0,0
+86,87,88, You reach your lecture very late. The lecturer yells at you and everyone fixes their gazes on you., Explain tardiness (1.5 coolness required), Sit down in shame,true,false,1.5,0,0,0,0,0
+87,0,0, Due to your bravery in the face of adversity you are instantly given your degree and live a successful life as a software developer and program the ai that eventually takes over the world in 2055., Restart,-,false,false,0,0,0,0,0,0
+88,0,0, Absolutely mortified you sit through the rest of the lecture not having a clue whats going on. At least you tried. If only people knew what you had to go through., Restart,-,false,false,0,0,0,0,0,0
